@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/codec/opus/opus-native/linux/libopus_jni_linux.iml" filepath="$PROJECT_DIR$/codec/opus/opus-native/linux/libopus_jni_linux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/media-core.iml" filepath="$PROJECT_DIR$/media-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asr/media-core-asr.iml" filepath="$PROJECT_DIR$/asr/media-core-asr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asr/asr-api/media-core-asr-api.iml" filepath="$PROJECT_DIR$/asr/asr-api/media-core-asr-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asr/asr-engine/media-core-asr-engine.iml" filepath="$PROJECT_DIR$/asr/asr-engine/media-core-asr-engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codec/media-core-codec.iml" filepath="$PROJECT_DIR$/codec/media-core-codec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codec/g711/media-core-codec-g711.iml" filepath="$PROJECT_DIR$/codec/g711/media-core-codec-g711.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codec/g729/media-core-codec-g729.iml" filepath="$PROJECT_DIR$/codec/g729/media-core-codec-g729.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codec/gsm/media-core-codec-gsm.iml" filepath="$PROJECT_DIR$/codec/gsm/media-core-codec-gsm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codec/ilbc/media-core-codec-ilbc.iml" filepath="$PROJECT_DIR$/codec/ilbc/media-core-codec-ilbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codec/l16/media-core-codec-l16.iml" filepath="$PROJECT_DIR$/codec/l16/media-core-codec-l16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codec/opus/media-core-codec-opus.iml" filepath="$PROJECT_DIR$/codec/opus/media-core-codec-opus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codec/opus/opus-java/media-core-codec-opus-java.iml" filepath="$PROJECT_DIR$/codec/opus/opus-java/media-core-codec-opus-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codec/opus/opus-native/media-core-codec-opus-native.iml" filepath="$PROJECT_DIR$/codec/opus/opus-native/media-core-codec-opus-native.iml" />
+      <module fileurl="file://$PROJECT_DIR$/component/media-core-component.iml" filepath="$PROJECT_DIR$/component/media-core-component.iml" />
+      <module fileurl="file://$PROJECT_DIR$/concurrent/media-core-concurrent.iml" filepath="$PROJECT_DIR$/concurrent/media-core-concurrent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/control/media-core-control.iml" filepath="$PROJECT_DIR$/control/media-core-control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/control/mgcp/media-core-control-mgcp.iml" filepath="$PROJECT_DIR$/control/mgcp/media-core-control-mgcp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/driver/media-core-driver.iml" filepath="$PROJECT_DIR$/driver/media-core-driver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/driver/asr-driver/media-core-driver-asr.iml" filepath="$PROJECT_DIR$/driver/asr-driver/media-core-driver-asr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/driver/asr-driver/asr-driver-api/media-core-driver-asr-api.iml" filepath="$PROJECT_DIR$/driver/asr-driver/asr-driver-api/media-core-driver-asr-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ice/media-core-ice.iml" filepath="$PROJECT_DIR$/ice/media-core-ice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/network/media-core-network.iml" filepath="$PROJECT_DIR$/network/media-core-network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pcap/media-core-pcap.iml" filepath="$PROJECT_DIR$/pcap/media-core-pcap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/resource/media-core-resource.iml" filepath="$PROJECT_DIR$/resource/media-core-resource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/resource/dtmf/media-core-resource-dtmf.iml" filepath="$PROJECT_DIR$/resource/dtmf/media-core-resource-dtmf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/resource/media-player/media-core-resource-player.iml" filepath="$PROJECT_DIR$/resource/media-player/media-core-resource-player.iml" />
+      <module fileurl="file://$PROJECT_DIR$/resource/media-recorder/media-core-resource-recorder.iml" filepath="$PROJECT_DIR$/resource/media-recorder/media-core-resource-recorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/resource/vad/media-core-resource-vad.iml" filepath="$PROJECT_DIR$/resource/vad/media-core-resource-vad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rtp/media-core-rtp.iml" filepath="$PROJECT_DIR$/rtp/media-core-rtp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scheduler/media-core-scheduler.iml" filepath="$PROJECT_DIR$/scheduler/media-core-scheduler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdp/media-core-sdp.iml" filepath="$PROJECT_DIR$/sdp/media-core-sdp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spi/media-core-spi.iml" filepath="$PROJECT_DIR$/spi/media-core-spi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stun/media-core-stun.iml" filepath="$PROJECT_DIR$/stun/media-core-stun.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="USE_RELEASE_OPTION" value="false" />
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="media-core-asr-api" />
+        <module name="media-core-spi" />
+        <module name="media-core-resource-recorder" />
+        <module name="media-core-scheduler" />
+        <module name="media-core-resource-dtmf" />
+        <module name="media-core-rtp" />
+        <module name="media-core-stun" />
+        <module name="media-core-codec-g711" />
+        <module name="media-core-pcap" />
+        <module name="media-core-sdp" />
+        <module name="media-core-asr-engine" />
+        <module name="media-core-component" />
+        <module name="media-core-resource-player" />
+        <module name="media-core-control-mgcp" />
+        <module name="media-core-ice" />
+        <module name="media-core-codec-l16" />
+        <module name="media-core-codec-g729" />
+        <module name="media-core-codec-opus-java" />
+        <module name="libopus_jni_linux" />
+        <module name="media-core-driver-asr-api" />
+        <module name="media-core-resource-vad" />
+        <module name="media-core-concurrent" />
+        <module name="media-core-network" />
+        <module name="media-core-codec-gsm" />
+        <module name="media-core-codec-ilbc" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="libopus_jni_linux" target="1.8" />
+      <module name="media-core" target="1.8" />
+      <module name="media-core-asr" target="1.8" />
+      <module name="media-core-asr-api" target="1.8" />
+      <module name="media-core-asr-engine" target="1.8" />
+      <module name="media-core-codec" target="1.8" />
+      <module name="media-core-codec-g711" target="1.8" />
+      <module name="media-core-codec-g729" target="1.8" />
+      <module name="media-core-codec-gsm" target="1.8" />
+      <module name="media-core-codec-ilbc" target="1.8" />
+      <module name="media-core-codec-l16" target="1.8" />
+      <module name="media-core-codec-opus" target="1.8" />
+      <module name="media-core-codec-opus-java" target="1.8" />
+      <module name="media-core-codec-opus-native" target="1.8" />
+      <module name="media-core-component" target="1.8" />
+      <module name="media-core-concurrent" target="1.8" />
+      <module name="media-core-control" target="1.8" />
+      <module name="media-core-control-mgcp" target="1.8" />
+      <module name="media-core-driver" target="1.8" />
+      <module name="media-core-driver-asr" target="1.8" />
+      <module name="media-core-driver-asr-api" target="1.8" />
+      <module name="media-core-ice" target="1.8" />
+      <module name="media-core-network" target="1.8" />
+      <module name="media-core-pcap" target="1.8" />
+      <module name="media-core-resource" target="1.8" />
+      <module name="media-core-resource-dtmf" target="1.8" />
+      <module name="media-core-resource-player" target="1.8" />
+      <module name="media-core-resource-recorder" target="1.8" />
+      <module name="media-core-resource-vad" target="1.8" />
+      <module name="media-core-rtp" target="1.8" />
+      <module name="media-core-scheduler" target="1.8" />
+      <module name="media-core-sdp" target="1.8" />
+      <module name="media-core-spi" target="1.8" />
+      <module name="media-core-stun" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

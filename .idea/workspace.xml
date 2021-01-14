@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d1fdfaad-ade0-4c3b-b52e-c86b3750f12e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asr/asr-api/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/jsr-309/driver/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codec/g711/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codec/g729/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codec/gsm/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codec/ilbc/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codec/l16/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control/mgcp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resource/dtmf/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resource/media-player/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resource/media-recorder/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resource/vad/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spi/.gitignore" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1n3MRHOgNDjRzrJ9EbTgVtQr35R" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="JUnit.SrtpEncoderTest.testEncode">
+    <configuration name="SrtpEncoderTest.testEncode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="media-core-rtp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.restcomm.media.core.rtp.netty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.restcomm.media.core.rtp.netty" />
+      <option name="MAIN_CLASS_NAME" value="org.restcomm.media.core.rtp.netty.SrtpEncoderTest" />
+      <option name="METHOD_NAME" value="testEncode" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SrtpParametersTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="media-core-rtp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.restcomm.media.core.rtp.crypto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.restcomm.media.core.rtp.crypto" />
+      <option name="MAIN_CLASS_NAME" value="org.restcomm.media.core.rtp.crypto.SrtpParametersTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SrtpEncoderTest.testEncode" />
+        <item itemvalue="JUnit.SrtpParametersTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1fdfaad-ade0-4c3b-b52e-c86b3750f12e" name="Default Changelist" comment="" />
+      <created>1610614314263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610614314263</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1874" height="161" key="GridCell.Tab.0.bottom" timestamp="1610616314130">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="161" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1610616314130" />
+    <state width="1874" height="161" key="GridCell.Tab.0.center" timestamp="1610616314130">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="161" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1610616314130" />
+    <state width="1874" height="161" key="GridCell.Tab.0.left" timestamp="1610616314129">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="161" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1610616314129" />
+    <state width="1874" height="161" key="GridCell.Tab.0.right" timestamp="1610616314130">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="161" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1610616314130" />
+    <state width="1874" height="161" key="GridCell.Tab.1.bottom" timestamp="1610616314131">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="161" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1610616314131" />
+    <state width="1874" height="161" key="GridCell.Tab.1.center" timestamp="1610616314130">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="161" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1610616314130" />
+    <state width="1874" height="161" key="GridCell.Tab.1.left" timestamp="1610616314130">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="161" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1610616314130" />
+    <state width="1874" height="161" key="GridCell.Tab.1.right" timestamp="1610616314131">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="161" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1610616314131" />
+    <state x="449" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1610615360308">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="449" y="188" width="1022" height="737" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1610615360308" />
+    <state x="654" y="151" width="779" height="804" key="find.popup" timestamp="1610615885439">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="654" y="151" width="779" height="804" key="find.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1610615885439" />
+  </component>
+</project>

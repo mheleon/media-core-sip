@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/asr/asr-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/asr/asr-engine/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/codec/g711/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/codec/g711/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/codec/g729/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/codec/gsm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/codec/ilbc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/codec/l16/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/codec/opus/opus-java/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/component/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/concurrent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/control/mgcp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/driver/asr-driver/asr-driver-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/network/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pcap/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resource/dtmf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resource/dtmf/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resource/media-player/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resource/media-player/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resource/media-recorder/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resource/media-recorder/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resource/vad/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rtp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scheduler/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sdp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stun/src/main/java" charset="UTF-8" />
+  </component>
+</project>
